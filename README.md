@@ -4,5 +4,5 @@ Welcome to the Tableau Dashboards Repository! This repository is dedicated to st
 
 ## Dashboards
 
-### 1. FP&A Dashboard for Turtle Co. [Link](/turtle_co_FP&A/README.md)
+### 1. FP&A Dashboard for Turtle Co. [Link](/turtle_co_balance_sheet/README.md)
 - Description:  This Tableau dashboard is designed to provide a comprehensive view of the company's financial health, covering key aspects such as the balance sheet, income statement and cash flow statements. Whether you're an investor, analyst, or a member of the Turtle Co. team, this dashboard will help you gain valuable insights into the company's financial position.
